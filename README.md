@@ -1,2 +1,2 @@
 Simple Additive Weighting Calculator
-> chopin-tools.my.id
+https://chopin-tools.my.id
